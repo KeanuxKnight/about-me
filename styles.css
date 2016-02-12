@@ -1,0 +1,14 @@
+body {background-color:black; color:#b3b3b3;}
+
+h1 {color:black;
+
+
+.bio {color:#b3b3b3; background-color:#404040;}
+
+div { background-color:#404040; }
+
+#biobox {width:600px;}
+
+#topTenBox {position: relative; float:center;width:600px; }
+
+#skillListBox {width:600px;}
