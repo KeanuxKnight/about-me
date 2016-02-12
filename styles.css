@@ -1,14 +1,15 @@
-body {background-color:black; color:#b3b3b3;}
+body { background-color:black; color:#b3b3b3; }
 
-h1 {color:black;
+h1 { color:black; }
 
+.h2bio {margin-bottom: 0px; padding-bottom: 0px;}
 
-.bio {color:#b3b3b3; background-color:#404040;}
+#GGLink {margin-top: 0px;padding-top: 0px;}
 
-div { background-color:#404040; }
+div { width:600px; color:#b3b3b3; background-color:#404040;}
 
-#biobox {width:600px;}
+#biobox { }
 
-#topTenBox {position: relative; float:center;width:600px; }
+#topTenBox { ;width:600px; }
 
 #skillListBox {width:600px;}
